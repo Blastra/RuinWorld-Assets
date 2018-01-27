@@ -1,0 +1,17 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.16299.192"/>
+        <meta name="ItemCount" content="0"/>
+        <title>RuinWorld</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\Documents\RuinWorld\TheMarch.wav"/>
+            <media src="..\..\Documents\RuinWorld\33pTransition.wav"/>
+            <media src="..\..\Documents\RuinWorld\Radar Rush Loop.wav"/>
+            <media src="..\..\Documents\RuinWorld\66pTransition.wav"/>
+            <media src="..\..\Documents\RuinWorld\Omens of Waste Loop.wav"/>
+        </seq>
+    </body>
+</smil>
